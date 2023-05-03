@@ -1,0 +1,57 @@
+body {
+    box-sizing: border-box;
+    /* 內减模式 */
+    background: url(../imgs/preview.jpg) no-repeat 0px 0px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+}
+
+ h1{
+
+    /* background-color: pink; */
+     margin-top: 100px;
+    text-align: center;
+}
+ .box{
+     margin-top: 20px;
+     overflow : hidden;
+ }
+.box .user {
+    float: right;
+
+}
+ .box .u1 a{
+
+     float: right;
+     font-size: 14px;
+     color: black;
+     text-decoration: none;
+ }
+ .u1 a:hover{
+     color: white;
+ }
+.form1 .cours{
+
+    margin: 0 auto;
+
+}
+
+.form1 .infom a{
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+}
+.form1 .infom a:hover{
+    color: #00a4ff;
+}
+.add h3{
+    text-align: center;
+}
+.add .form2{
+    text-align: center;
+    margin: auto;
+}
+span{
+    color: red;
+}

@@ -1,0 +1,17 @@
+body {
+    box-sizing: border-box;
+    /* 內减模式 */
+    background: url(../imgs/preview.jpg);
+
+
+}
+h1{
+
+    /* background-color: pink; */
+    text-align: center;
+}
+.fix{
+
+    margin: 0 auto;
+    text-align: center;
+}
